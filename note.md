@@ -8,3 +8,9 @@
 - 风险规避型被试更加喜欢避免风险性高的游戏。
 - 值得信任度和利他主义影响互惠行为，而非信任。
 - 女人比男人更不可信。
+## 3.The evolution of strategies in a repeated trust game
+-
+-
+-
+
+
